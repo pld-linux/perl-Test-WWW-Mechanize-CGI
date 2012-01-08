@@ -1,8 +1,6 @@
-# TODO
-# - tests need future version of itself?
 #
 # Conditional build:
-%bcond_with	tests		# do not perform "make test"
+%bcond_without	tests		# do not perform "make test"
 
 %define		pdir	Test
 %define		pnam	WWW-Mechanize-CGI
