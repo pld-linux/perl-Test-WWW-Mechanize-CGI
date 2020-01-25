@@ -4,7 +4,6 @@
 
 %define		pdir	Test
 %define		pnam	WWW-Mechanize-CGI
-%include	/usr/lib/rpm/macros.perl
 Summary:	Test::WWW::Mechanize::CGI - Test CGI applications with Test::WWW::Mechanize
 Name:		perl-Test-WWW-Mechanize-CGI
 Version:	0.1
